@@ -104,5 +104,57 @@
 	<classpathentry kind="lib" path="C:/Users/palla/Downloads/appium jars/selenium-support-4.0.0-beta-1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/palla/Downloads/appium jars/servlet-api-2.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/palla/Downloads/appium jars/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/commons-text-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/htmlunit-2.30.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/htmlunit-core-js-2.28.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/htmlunit-cssparser-1.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/htmlunit-driver-2.30.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/httpmime-4.5.5.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jetty-client-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jetty-http-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jetty-io-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jetty-repacked-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jetty-util-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jetty-xml-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/neko-htmlunit-2.30.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-server-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/snakeyaml-1.19.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/websocket-api-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/websocket-client-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/websocket-common-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Jar FIles/jar files/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
