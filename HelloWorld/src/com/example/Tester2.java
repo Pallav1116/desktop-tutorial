@@ -24,7 +24,6 @@ public class Tester2 {
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\palla\\Downloads\\appium jars\\chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.get(url);
-		System.out.println(driver.getTitle());
 	}
 	@After
 	public void tearDown() throws Exception {
