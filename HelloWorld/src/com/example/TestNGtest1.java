@@ -1,5 +1,4 @@
 package com.example;
-
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 import org.openqa.selenium.WebDriver;
@@ -12,6 +11,7 @@ public class TestNGtest1{
   @Test
   public void f() {
 	  System.out.println(driver.getTitle());
+	  
   }
   @BeforeMethod
   public void beforeMethod() throws Exception {
