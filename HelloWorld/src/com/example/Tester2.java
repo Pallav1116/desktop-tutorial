@@ -39,6 +39,7 @@ public class Tester2 {
 		File srcFile=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(srcFile,new File("F:\\screenshotSelenium\\Shot1.png"));
 		
+		
 	}
 
 }
