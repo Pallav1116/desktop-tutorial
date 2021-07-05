@@ -20,7 +20,7 @@ public class TestNGtest1{
   }
   @BeforeMethod
   public void beforeMethod() throws Exception {
-	  System.setProperty("webdriver.chrome.driver","C:\\Users\\palla\\Downloads\\appium jars\\chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver","C:\\Users\\palla\\Downloads\\appium jars\\libs\\chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.get(url);
   }
