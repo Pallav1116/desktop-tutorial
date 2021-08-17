@@ -133,7 +133,7 @@ public class RegistrationAuto {
 				+ "city is required.\n"
 				+ "The Zip/Postal code you've entered is invalid. It must follow this format: 00000\n"
 				+ "This country requires you to choose a State.");
-			System.out.println("Test complete");
+			System.out.println("Test complete!");
 		
 		}
 	}
